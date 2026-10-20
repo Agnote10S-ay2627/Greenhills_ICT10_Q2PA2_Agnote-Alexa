@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    color: darkblue;
+    font-size: 30px;
+}
+
+div {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
